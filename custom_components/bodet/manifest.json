@@ -1,0 +1,11 @@
+{
+    "domain": "bodet",
+    "name": "Bodet",
+    "config_flow": true,
+    "documentation": "https://github.com/lamauny/hassio-components/bodet",
+    "dependencies": [],
+    "codeowners": ["@Lamauny"],
+    "requirements": [],
+    "version": "0.0.1",
+    "iot_class": "local_push"
+}
